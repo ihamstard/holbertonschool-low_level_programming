@@ -5,8 +5,7 @@
  * main - print number if positive, zero or negative
  * return: Alway (Success)
  */
-
-int main (void)
+int main(void)
 {
 	int n;
 
