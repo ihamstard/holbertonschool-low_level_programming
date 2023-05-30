@@ -4,7 +4,7 @@
  * Return: enjoy output
  */
 
-void time_table(void)
+void times_table(void)
 
 {
 	int x, y, z, u, d;
