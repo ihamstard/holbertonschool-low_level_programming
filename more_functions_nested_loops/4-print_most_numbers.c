@@ -2,7 +2,7 @@
 
 /**
  * print_most_numbers - will print all numbers except 2 and 4
- * @c: list numbers
+ * list numbers
  * Return: 0
  */
 
