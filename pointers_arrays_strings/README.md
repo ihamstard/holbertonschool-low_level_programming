@@ -1,3 +1,2 @@
-#!bin/bash
-
-hello again
+#!/bin/bash
+# holbertonschool-low_level_programming
