@@ -2,7 +2,7 @@
 
 /**
  * _strlen_recursion - calculate the leanth of a string.
- * s@: The string to count
+ * @s: The string to count
  * Return:interger value
  *
  */
