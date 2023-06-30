@@ -4,12 +4,12 @@
 
 /**
  * print_strings - prints strings, by a line
- * @saparator: the string to be printed between strings
+ * @separator: the string to be printed between strings
  * @n: the number of strings
  * @...: a variable number of strings
  *
  * Description: If separator is NULL, it is not printed.
- * 		If one of the strings if NULL, (nil) is printed instead.
+ * If one of the strings if NULL, (nil) is printed instead.
  */
 void print_strings(const char *separator, const unsigned int n, ...)
 {
